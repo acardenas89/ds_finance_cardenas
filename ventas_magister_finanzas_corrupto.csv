@@ -1,0 +1,25 @@
+fecha,ejecutivo,region,producto,monto_venta,comision_pct,clientes_contactados,estado
+2026-04-01,Ana Pérez,Norte,Fondo Mutuo,1250000,"1,5",12,Aprobada
+2026-04-01,Ana Perez,Norte ,Fondo Mutuo,"1.300.000","1,5",14,Aprobada
+2026-04-02,ANa  Pérez,norte,Seguro Vida,"980000","1.2",10,Aprobada
+2026-04-02,Carlos Soto,Sur,Credito Consumo,"2.100.000","2,0",18,Aprobada
+2026-04-03,Carlos  Soto,Sur ,Crédito Consumo,"2100000","2.0",veinte,Aprobada
+2026-04-03,Carlo Soto,Sur,Credito Consumo,ERROR,"2,0",19,Rechazada
+2026-04-04,María López,Centro,APV,"750000","1,8",9,Aprobada
+2026-04-04,Maria Lopez, centro ,APV,"760.500","1.8",8,Aprobada
+2026-04-05,Maria  López,Centro,APV,,"1,8",11,Pendiente
+2026-04-05,Juan Torres,Metropolitana,Deposito Plazo,"1500000","0,9",16,Aprobada
+2026-04-06,Juan  Torres,metropolitana,Depósito Plazo,"1.550.000","0.9",15,Aprobada
+2026-04-06,J. Torres,Metropolitana,Deposito Plazo,"-100000","0,9",17,Aprobada
+2026-04-07,Ana Pérez,Norte,Fondo Mutuo,"1.450.000","1,5",13,Aprobada
+2026-04-07,Carlos Soto,Sur,Seguro Vida,"890000","1,2",12,Aprobada
+2026-04-08,María López,Centro,APV,"820000","1,8",10,Aprobada
+2026-04-08,Juan Torres,Metropolitana,Credito Hipotecario,"5.500.000","2,5",6,Aprobada
+2026-04-09,Ana Perez,Norte,Seguro Vida,"1,050,000","1.2",11,Aprobada
+2026-04-09,Carlos Soto,Sur,Credito Consumo,"2200000","dos",21,Aprobada
+2026-04-10,Maria Lopez,Centro,APV,"830000","1,8",-3,Aprobada
+2026-04-10,Juan Torres,Metropolitana,Deposito Plazo,"1600000","0,9",18,aprobada
+2026-04-11,Ana Pérez,Norte,Fondo Mutuo,"1475000","1,5",13,Aprobada
+2026-04-11,Carlos Soto,Sur,Credito Consumo,"2250000","2,0",22,Aprobada
+2026-04-12,María López,Centro,APV,"840000","1,8",12,Aprobada
+2026-04-12,Juan Torres,Metropolitana,Deposito Plazo,"1650000","0,9",19,Aprobada
